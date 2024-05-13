@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hotel\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\repository\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:repository\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\itnerfaces\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:itnerfaces\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\itnerfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:itnerfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|c:\\users\\sever\\desktop\\itvdn hw\\hotel\\dto\\userwithplacesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:dto\\userwithplacesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\dto\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:dto\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240513112833_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240513112833_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512203921_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240512203921_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512203658_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240512203658_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200905_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240512200905_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200237_InitialCreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240512200237_InitialCreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200021_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240512200021_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240513124609_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24746F7C-EEDD-4974-986C-14115A60D9AC}|Hotel.csproj|solutionrelative:Migrations\\20240513124609_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 643,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaceController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Controllers\\PlaceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlaceController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Controllers\\PlaceController.cs",
+              "RelativeToolTip": "Controllers\\PlaceController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwH8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:12:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:02:48.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:54:30.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Itnerfaces\\IPlaceRepository.cs",
+              "RelativeDocumentMoniker": "Itnerfaces\\IPlaceRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Itnerfaces\\IPlaceRepository.cs",
+              "RelativeToolTip": "Itnerfaces\\IPlaceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:15:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Itnerfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Itnerfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Itnerfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Itnerfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:22:33.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:28:48.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Repository\\PlaceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PlaceRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Repository\\PlaceRepository.cs",
+              "RelativeToolTip": "Repository\\PlaceRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:02:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "Models\\Place.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Models\\Place.cs",
+              "RelativeToolTip": "Models\\Place.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:07:29.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:07:32.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Dto\\PlaceDto.cs",
+              "RelativeDocumentMoniker": "Dto\\PlaceDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Dto\\PlaceDto.cs",
+              "RelativeToolTip": "Dto\\PlaceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:32:56.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:32:44.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserWithPlacesDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Dto\\UserWithPlacesDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserWithPlacesDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Dto\\UserWithPlacesDto.cs",
+              "RelativeToolTip": "Dto\\UserWithPlacesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:00:42.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAFwUAAAAAAAAAAAYwIEUAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-13T12:41:05.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:07:51.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:21:03.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAawCEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:54:10.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240513124609_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240513124609_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240513124609_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240513124609_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240513124609_InitialCreate.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:46:09.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Seed.cs",
+              "RelativeDocumentMoniker": "Seed.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Seed.cs",
+              "RelativeToolTip": "Seed.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:10:17.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240513112833_Create.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240513112833_Create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240513112833_Create.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240513112833_Create.cs",
+              "RelativeToolTip": "Migrations\\20240513112833_Create.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:28:33.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240512203921_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512203921_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512203921_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512203921_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240512203921_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:39:21.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240512203658_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512203658_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512203658_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512203658_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240512203658_InitialCreate.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:36:58.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240512200905_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200905_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512200905_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200905_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240512200905_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:09:05.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240512200237_InitialCreate3.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200237_InitialCreate3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512200237_InitialCreate3.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200237_InitialCreate3.cs",
+              "RelativeToolTip": "Migrations\\20240512200237_InitialCreate3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:02:37.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240512200021_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200021_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512200021_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\Migrations\\20240512200021_InitialCreate2.cs",
+              "RelativeToolTip": "Migrations\\20240512200021_InitialCreate2.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:00:21.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\Hotel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T19:18:57.113Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 456,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
